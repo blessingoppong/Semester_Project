@@ -1,2 +1,5 @@
 # Semester_Project
-UEB3235222 Oppong Blessing
+Name: Oppong Blessing
+Index Number: UEB3235222 
+Class: IT C
+Project: 8. Payroll System
